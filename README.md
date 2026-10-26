@@ -99,4 +99,4 @@ Unregister-ScheduledTask -TaskName "钉钉群签到" -Confirm:$false
 
 
 
-#打倒建院皇帝王宇霖，捍卫学生自由与隐私权！
+![打倒建院皇帝王宇霖，捍卫学生自由与隐私权！](https://picui.ogmua.cn/s1/2026/10/26/6adef4633dda4.webp)
