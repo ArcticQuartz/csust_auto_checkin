@@ -4,7 +4,8 @@
 ###该方法需要一部手机常连接电脑，可以用备用机登录，也可以使用AI修改此脚本，使其检测到手机开机或其他情况下使用
 使用方法：
 1. 在dingtalk_checkin.py中，将 CHAT_NAME 变量修改为自己所在学院的打卡群聊名称。
-2. 在register_checkin_task.ps1中，将 param() 中的 [string]$Python 值修改为你电脑中python的路径；[string]$At 值修改为你想要进行打卡的时间
+2. 在dingtalk_checkin.py中，将 ADB_CANDIDATES 变量的值修改为本机电脑上的adb路径（我用的是自己mumu模拟器的adb，没有的可以自己下一个）
+3. 在register_checkin_task.ps1中，将 param() 中的 [string]$Python 值修改为你电脑中python的路径；[string]$At 值修改为你想要进行打卡的时间
 
 ## 一、手机侧一次性设置
 
