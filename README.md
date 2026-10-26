@@ -99,5 +99,3 @@ Unregister-ScheduledTask -TaskName "钉钉群签到" -Confirm:$false
 ------
 
 ![打倒建院皇帝王宇霖，捍卫学生自由与隐私权！](https://picui.ogmua.cn/s1/2026/10/26/6adef4633dda4.webp)
-庙堂之上，朽木为官，殿陛之间，禽兽食禄，以至狼心狗行之辈汹汹当朝
-（在某院，朽木、禽兽、狼心狗行之辈、王司徒指同一人）
