@@ -95,3 +95,8 @@ Unregister-ScheduledTask -TaskName "钉钉群签到" -Confirm:$false
 | 签到页没自动关闭 | 大概率没签上（定位/网络），看日志和手机屏幕 |
 | 跑完手机没息屏 | 用了 `--no-sleep`；或手动 `adb shell input keyevent 223` |
 | 换钉钉版本/分辨率后按钮点偏 | 改脚本里的 `SIGN_BTN_FRACTION = (0.5, 0.781)` |
+
+
+
+
+#打倒建院皇帝王宇霖，捍卫学生自由与隐私权！
