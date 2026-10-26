@@ -36,7 +36,7 @@ ADB_CANDIDATES = (
     r"D:\Program Files\Essentials\NetEase\MuMuPlayer-12.0\shell\adb.exe",
     os.path.join(os.path.expanduser("~"), "AppData", "Local", "Android", "Sdk",
                  "platform-tools", "adb.exe"),
-)
+)  # ADB路径，需要修改为本机对应的路径
 
 CHAT_NAME = "建筑学院"          # 要进入的群名, 可以修改为自己学院对应的群聊
 CHECKIN_ENTRY = "群签到"        # 群工具栏里的入口
